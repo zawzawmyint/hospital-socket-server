@@ -71,6 +71,8 @@ The server will start on the port specified in your environment variables (defau
 
 The live application can be accessed here:
 
+https://hospital-socket-server.onrender.com/health
+
 ## 🏥 Hospital Frontend Repository
 
 The client application that connects to this server can be found here:
